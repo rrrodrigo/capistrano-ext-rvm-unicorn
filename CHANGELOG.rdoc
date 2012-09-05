@@ -1,3 +1,7 @@
+== 0.0.2 (September 6, 2012)
+
+* add 'bundle exec' within deploy:start code
+
 == 0.0.1 (November 14, 2011)
 
 * add 'cap deploy:start'
